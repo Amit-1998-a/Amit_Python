@@ -24,4 +24,4 @@ record = { "_id": 5,
 rec_id1 = collection.insert_one(record)
 
 
-y
+
